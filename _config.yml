@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Hack Your Self</p>
+     <p><font size="7">Hack Your Self</font></p>
   header_text_feature_image:
   footer_text: >
    Theme <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
