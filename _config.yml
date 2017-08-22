@@ -12,13 +12,12 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p> Hack Your Self </p>
-     
+     <p>Hack Your Self.</p>
+
   header_text_feature_image:
   footer_text: >
-  Copyright @ 2017 - xCan | <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
-  
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
