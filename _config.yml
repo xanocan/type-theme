@@ -13,6 +13,7 @@ theme_settings:
   # Header and footer text
   header_text: >
   Hack Your Self
+  header_text_feature_image:
   footer_text: >
   xCan Theme by <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
   
